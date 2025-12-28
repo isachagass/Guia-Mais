@@ -1,0 +1,11 @@
+Este projeto foi desenvolvido durante o curso de Desenvolvimento de Sistemas com o objetivo de unir tecnologia, Internet das Coisas (IoT) e acessibilidade, criando uma solução voltada para pessoas com deficiência e baixa visão, com foco em inclusão, empatia e segurança residencial.
+
+A aplicação consiste em um app mobile desenvolvido em React Native, que simula o controle de uma casa inteligente diretamente pelo celular. Por meio do aplicativo, o usuário pode controlar funcionalidades como iluminação, janelas e sistema de alarme, contribuindo para maior autonomia e segurança no ambiente doméstico. O controle pode ser realizado tanto por botões com design simples e acessível quanto por comandos de voz, ampliando as possibilidades de uso para diferentes perfis de usuários.
+
+Pensando na acessibilidade, o projeto foi desenvolvido com interfaces claras, botões grandes e navegação intuitiva, priorizando a usabilidade para pessoas com baixa visão. Todo o conceito do sistema foi orientado pelos princípios de design inclusivo, buscando reduzir barreiras tecnológicas e promover maior independência ao usuário.
+
+Além do aplicativo, foi construída uma maquete física de uma casa inteligente, integrada a um Arduino, responsável por executar as ações enviadas pelo app. O Arduino foi programado para controlar os componentes físicos da maquete, como LEDs (representando luzes), motores e sensores, simulando o funcionamento real de uma residência automatizada.
+
+A comunicação entre o aplicativo e o Arduino foi realizada por meio do protocolo MQTT, permitindo a troca de mensagens em tempo real pela internet. A programação do controle foi desenvolvida em Python, responsável por interpretar os comandos enviados pelo aplicativo, publicar e assinar tópicos MQTT e acionar os dispositivos conectados ao Arduino. Essa arquitetura possibilitou o controle remoto da casa inteligente pelo celular, mesmo sem conexão direta entre os dispositivos.
+
+Este projeto representa uma aplicação prática dos conceitos de desenvolvimento mobile, IoT, integração entre software e hardware, comunicação em rede e acessibilidade, demonstrando minha capacidade de desenvolver soluções tecnológicas funcionais, inclusivas e alinhadas a problemas reais.
