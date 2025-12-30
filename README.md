@@ -1,3 +1,5 @@
+## **Guia +**
+
 Este projeto foi desenvolvido durante o curso de Desenvolvimento de Sistemas com o objetivo de unir tecnologia, Internet das Coisas (IoT) e acessibilidade, criando uma solução voltada para pessoas com deficiência e baixa visão, com foco em inclusão, empatia e segurança residencial.
 
 A aplicação consiste em um app mobile desenvolvido em React Native, que simula o controle de uma casa inteligente diretamente pelo celular. Por meio do aplicativo, o usuário pode controlar funcionalidades como iluminação, janelas e sistema de alarme, contribuindo para maior autonomia e segurança no ambiente doméstico. O controle pode ser realizado tanto por botões com design simples e acessível quanto por comandos de voz, ampliando as possibilidades de uso para diferentes perfis de usuários.
